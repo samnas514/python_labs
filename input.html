@@ -1,0 +1,12 @@
+{%extends 'layout.html' %}
+
+{%block content%}
+{%for cat, msg in get flashed_messages(True)%}
+<div class = "flash{{cat}}">{{msg}}</div>
+{%endfor%}
+<form action="" method="post" class="form-contact">
+    <p><label>Игра: </label><input type="text" name="game" value="" required/>
+    <p><label>Год: </label><input type="text" name="year" value="" required/>
+    <p><input type="submit" value="Ввод" />
+</form>
+{% endblock %}
