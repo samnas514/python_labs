@@ -1,0 +1,62 @@
+{
+  "Can you check if your microphone is on, please?": {
+    "ru": "Пожалуйста, проверьте, что микрофон включен",
+    "en": "Can you check if your microphone is on, please?"
+  },
+  "What did you say again?": {
+    "ru": "Пожалуйста, повторите",
+    "en": "What did you say again?"
+  },
+  "Oopsie...": {
+    "ru": "Что-то пошло не так.",
+    "en": "Seems like we have a trouble."
+  },
+  "Hello, {}! How can I help you today?": {
+    "ru": "Привет, {}! Чем могу помочь?",
+    "en": "Hello, {}! How can I help you today?"
+  },
+  "Good day to you {}! How can I help you today?": {
+    "ru": "Здравствуй, {}! Какой план на сегодня?",
+    "en": "Good day to you {}! How can I help you today?"
+  },
+  "Goodbye, {}! Have a nice day!": {
+    "ru": "До связи, {}! Хорошего тебе дня!",
+    "en": "Goodbye, {}! Have a nice day!"
+  },
+  "See you soon, {}!": {
+    "ru": "До скорого, {}!",
+    "en": "See you soon, {}!"
+  },
+  "Here is what I found for {} on google": {
+    "ru": "Вот, что мне удалось найти по запросу {} в Гугл",
+    "en": "Here is what I found for {} on google"
+  },
+  "Here is what I found for {} on site": {
+    "ru": "Вот, что мне удалось найти по запросу {} на сайте",
+    "en": "Here is what I found for {} on site"
+  },
+  "Here is what I found for {} on Wikipedia": {
+    "ru": "Вот, что мне удалось найти по запросу {} в Википедии",
+    "en": "Here is what I found for {} on Wikipedia"
+  },
+  "Can't find {} on Wikipedia. But here is what I found on google": {
+    "ru": "Не могу найти в Википедии ничего по запросу {}. Но вот, что мне удалось найти в Гугл",
+    "en": "Can't find {} on Wikipedia. But here is what I found on google"
+  },
+  "won": {
+    "ru": "победили",
+    "en": "won"
+  },
+  "Tails": {
+    "ru": "Решки",
+    "en": "Tails"
+  },
+  "Heads": {
+    "ru": "Орлы",
+    "en": "Heads"
+  },
+  "Can you repeat, please?": {
+    "ru": "Можешь повторить?",
+    "en": "Can you repeat, please?"
+  }
+}
